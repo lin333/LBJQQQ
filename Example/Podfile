@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ICETemple_Example' do
+  pod 'ICETemple', :path => '../'
+
+  target 'ICETemple_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

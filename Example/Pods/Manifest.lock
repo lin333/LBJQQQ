@@ -1,0 +1,16 @@
+PODS:
+  - ICETemple (0.1.0)
+
+DEPENDENCIES:
+  - ICETemple (from `../`)
+
+EXTERNAL SOURCES:
+  ICETemple:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ICETemple: 28ed3909b05d2f4d987b8900a8c26b739d67bb70
+
+PODFILE CHECKSUM: a76485dd91bccb640f1f72af0dc4010ead856230
+
+COCOAPODS: 1.10.1

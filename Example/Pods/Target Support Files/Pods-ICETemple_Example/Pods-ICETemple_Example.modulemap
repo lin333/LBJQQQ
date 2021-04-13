@@ -1,0 +1,6 @@
+framework module Pods_ICETemple_Example {
+  umbrella header "Pods-ICETemple_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

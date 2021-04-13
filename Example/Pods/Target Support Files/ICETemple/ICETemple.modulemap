@@ -1,0 +1,6 @@
+framework module ICETemple {
+  umbrella header "ICETemple-umbrella.h"
+
+  export *
+  module * { export * }
+}
